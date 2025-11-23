@@ -1,0 +1,29 @@
+your-portfolio-repo
+├── projects
+│ ├── project1-customer-segmentation
+│ │ ├── data
+│ │ │ └── cluster_sample.csv
+│ │ ├── notebooks
+│ │ │ └── analysis.ipynb
+│ │ ├── scripts
+│ │ │ └── clustering.py
+│ │ └── README.md
+│ ├── project2-sales-dashboard
+│ │ ├── assets
+│ │ │ └── sales_timeseries.png
+│ │ ├── pbix_or_tableau_files
+│ │ └── README.md
+│ ├── project3-ab-testing
+│ │ └── README.md
+│ └── project4-end-to-end-pipeline
+│ └── README.md
+├── assets
+│ └── images
+│ ├── cluster_scatter.png
+│ └── sales_timeseries.png
+├── README.md
+├── LICENSE
+└── website
+├── index.html
+├── styles.css
+└── app.js
